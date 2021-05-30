@@ -15,6 +15,7 @@ public class Class4 extends Class1
 		Class4 c4=new Class4(1000, 2000);
 		c4.add();
 		c4.sub();
+		System.out.println("first message");
 	}
 
 }
